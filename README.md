@@ -1,6 +1,6 @@
 # Descrição
 
-O software presente no nosso repositorio é ficticiosm, não possui código, é apenas uma ideia.
+O software presente no nosso repositorio é fictício, não possui código, é apenas uma ideia.
 
 # LEIA-ME
 
